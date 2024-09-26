@@ -1,0 +1,6 @@
+number_classes: 3
+train: dataset/fruitdetect/train.txt
+val: dataset/fruitdetect/valid.txt
+test: dataset/fruitdetect/test.txt
+names: ["immaturesapodilla", "maturesapodilla", "nonsapodilla"]
+
